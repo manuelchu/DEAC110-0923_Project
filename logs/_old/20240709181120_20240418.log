@@ -1,0 +1,29 @@
+Starting extraction, transformation, and loading from open-meteo.com... 
+...weather data extracted from 2024-04-18 00:00:00 to 2024-04-18 23:00:00 
+.....(OK) row 2024-04-18 00:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 01:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 02:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 03:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 04:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 05:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 06:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 07:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 08:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 09:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 10:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 11:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 12:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 13:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 14:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 15:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 16:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 17:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 18:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 19:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 20:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 21:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 22:00:00 is loaded in data warehouse
+.....(OK) row 2024-04-18 23:00:00 is loaded in data warehouse
+...data have been loaded to CockroachDB
+...alerts for bad weather not found
+Closing extraction, transformation, and loading from open-meteo.com...
